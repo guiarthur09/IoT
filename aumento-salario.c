@@ -5,7 +5,7 @@ int main(){
     return 0;
 }
 
-Faça um programa que receba o salario de um funcionario, calcule e mostre:
+Faï¿½a um programa que receba o salario de um funcionario, calcule e mostre:
      - O Salario atual;
      - O Valor do aumento
      - Novo salario, sabendo-se que este sofreu um aumemnto de 25%*/

@@ -5,7 +5,7 @@ int main(){
     return 0;
 }
 
-Faï¿½a um programa que receba o salario de um funcionario, calcule e mostre:
+Faça um programa que receba o salario de um funcionario, calcule e mostre:
      - O Salario atual;
      - O Valor do aumento
      - Novo salario, sabendo-se que este sofreu um aumemnto de 25%*/
@@ -29,7 +29,7 @@ int main(){
     printf("Valor do aumento (25%%): R$ %.2f\n", valor_aumento);
     printf("Novo salario: R$ %.2f\n", novo_salario);
     
-    system("pause");
+    system("pause"); // or getchar();
     return 0;
 }
 

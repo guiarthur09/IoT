@@ -27,7 +27,7 @@ int main(){
     printf("Valor do imposto: R$ %.2f\n", impostos);
     printf("Novo salario: R$ %.2f\n", novo_salario);
     
-    system("pause");
+    system("pause"); //or getchar();
     return 0;
     
     }
